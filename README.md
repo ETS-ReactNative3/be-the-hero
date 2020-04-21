@@ -23,11 +23,12 @@
 <br />
 
 <div align="center">
-  <a href="#technologies">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#about">About</a>
+    <a href="#technologies">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </div>
 
-<p id="about">   
+<div id="about"> 
+
 # About
 ## Be The Hero
 ### OmniStack 11.0
@@ -42,9 +43,10 @@ React application
 
 #### /mobile
 React Native application
-</p>
+</div>
 
 <div id="technologies">   
+
 ## :rocket: Technologies
 This project uses these technologies:
 
@@ -53,6 +55,3 @@ This project uses these technologies:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 </div>
-
-
-
