@@ -20,23 +20,14 @@
 <p align="center">
   <img alt="Frontend" src=".github/be-the-hero-desktop.gif" width="50%">
 </p>
+<br />
 
 <div align="center">
-  <a href="#technologies">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </div>
 
-<div id="technologies">   
-## :rocket: Technologies
-This project uses these technologies:
-
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
-</div>
-
-<div id="about">   
+<p id="about">   
 # About
 ## Be The Hero
 ### OmniStack 11.0
@@ -51,5 +42,17 @@ React application
 
 #### /mobile
 React Native application
+</p>
+
+<div id="technologies">   
+## :rocket: Technologies
+This project uses these technologies:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 </div>
+
+
 
