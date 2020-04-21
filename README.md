@@ -23,15 +23,14 @@
 <br />
 
 <div align="center">
-    <a href="#about">About</a>
-    <a href="#technologies">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#about">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+    <a href="#technologies">Technologies Used</a>
 </div>
 
 <div id="about"> 
 
-# About
-## Be The Hero
-### OmniStack 11.0
+# :computer: About
+## OmniStack 11.0
 These projects was based on the Rocketseat course called <b>"Week OmniStack 11.0"</b> that you can find in this link: https://rocketseat.com.br/
 
 ### Directories
