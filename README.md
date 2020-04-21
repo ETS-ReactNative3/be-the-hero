@@ -1,6 +1,10 @@
-<h1 align="center">
+<div align="center">
     <img alt="Be The Hero" title="#bethehero" src=".github/logo.svg" width="250px" />
-</h1>
+</div>
+
+<div align="center">
+  <img alt="Frontend" src=".github/be-the-hero-desktop.gif" width="50%">
+</div>
 
 <div align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/edusik/be-the-hero">
@@ -15,11 +19,6 @@
     <img alt="Repository Issues" src="https://img.shields.io/github/issues/edusik/be-the-hero">
   </a> 
 </div>
-<br />
-
-<p align="center">
-  <img alt="Frontend" src=".github/be-the-hero-desktop.gif" width="50%">
-</p>
 <br />
 
 <div align="center">
