@@ -23,25 +23,16 @@
 <br />
 
 <div align="center">
-    <a href="#about">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-    <a href="#technologies">Technologies Used</a>
+    <a href="#about">About</a>&nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="#technologies">Technologies Used</a>&nbsp;&nbsp; | &nbsp;&nbsp;
+     <a href="#directories">Directories</a>
 </div>
 
 <div id="about"> 
 
-# :computer: About
-## OmniStack 11.0
+## :computer: About
+### OmniStack 11.0
 These projects was based on the Rocketseat course called <b>"Week OmniStack 11.0"</b> that you can find in this link: https://rocketseat.com.br/
-
-### Directories
-#### /backend
-Node application
-
-#### /frontend
-React application
-
-#### /mobile
-React Native application
 </div>
 
 <div id="technologies">   
@@ -54,3 +45,17 @@ This project uses these technologies:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 </div>
+
+<div id="directories">   
+
+## :file_folder: Directories
+#### /backend
+Node application
+
+#### /frontend
+React application
+
+#### /mobile
+React Native application
+</div>
+
