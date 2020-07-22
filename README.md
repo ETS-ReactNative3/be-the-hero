@@ -58,3 +58,4 @@ React application
 React Native application
 </div>
 
+remote_theme: "dracula/gh-pages"
